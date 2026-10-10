@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AfroTalk",
+    "slug": "afrotalk-v1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://i.imgur.com/Y5P6QzG.png",
+    "splash": {
+      "backgroundColor": "#0066FF",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.ceoafrotalk.afrotalk",
+      "adaptiveIcon": {
+        "backgroundColor": "#0066FF"
+      }
+    }
+  }
+}
